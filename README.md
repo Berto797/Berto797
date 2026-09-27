@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Alberto 👋
 
-<!--
-**Berto797/Berto797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineer (MSc) transitioning into Data Engineering.
 
-Here are some ideas to get you started:
+I have nearly 5 years of experience working with industrial data, computer vision and real-time systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently focusing on
+- Python
+- SQL
+- Data Pipelines
+- Data Transformation
+- Data Quality
+- Databases
+- Docker
+
+## Featured Project
+
+🎬 **Movie Data Pipeline**
+
+An end-to-end data engineering project focused on collecting, transforming, storing and analyzing movie data.
+
+## Technologies
+
+Python · SQL · PostgreSQL · Docker · Git · Linux
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/albertomendozablanco](https://www.linkedin.com/in/albertomendozablanco/)  
+**Email:** [albertomb97@gmail.com](mailto:albertomb97@gmail.com)
